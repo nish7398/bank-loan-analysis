@@ -123,12 +123,12 @@ Run all cells in order. Cleaned data and 8 visualizations will auto-save.
 
 ---
 
-## 🧠 What I'd Add Next
+## 🚀 Future Enhancements
 
-- **Logistic Regression Model** — Predict default probability using scikit-learn
-- **Tableau Dashboard** — Interactive risk heatmap, grade performance, state map
-- **Cohort Analysis** — Track default rates by loan origination year
-- **Feature Importance** — Use Random Forest to rank risk predictors
+- Logistic Regression model to predict default probability — evaluated using ROC-AUC score
+- Random Forest model to rank feature importance and improve prediction accuracy
+- Interactive Tableau dashboard for business users — risk segmentation, grade trends, state heatmap
+- Cohort analysis to track how default rates change across loan origination years
 
 ---
 
